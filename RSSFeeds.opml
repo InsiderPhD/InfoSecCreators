@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>InfoSec Creators</title>
+    </head>
+    <body>
+        <outline text="Newsletters" title="Newsletters">
+            <outline type="rss" text="Securibee Hive Five" title="Securibee Hive Five" xmlUrl="https://feedly.com/email/qzqtima4nbgwwf2t4yrb"/>
+            <outline type="rss" text="Executive Offence" title="Executive Offence" xmlUrl="https://feedly.com/email/o5l71lj876wrsqk68g7s"/>
+            <outline type="rss" text="Loop" title="Loop" xmlUrl="https://feedly.com/email/n8ndplwgejnqndvxgyrc"/>
+            <outline type="rss" text="tl;dr sec" title="tl;dr sec" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
+            <outline type="rss" text="Unsupervised Learning" title="Unsupervised Learning" xmlUrl="https://danielmiessler.com/feed/" htmlUrl="https://danielmiessler.com/"/>
+            <outline type="rss" text="Hakluke’s Hacks" title="Hakluke’s Hacks" xmlUrl="https://feedly.com/email/ddsn8smszj3ubchxwib3"/>
+            <outline type="rss" text="BeeHiv" title="BeeHiv" xmlUrl="https://feedly.com/email/31keaev6x6b3kn84uwoo"/>
+            <outline type="rss" text="~this week in security~ Archive Feed" title="~this week in security~ Archive Feed" xmlUrl="https://us18.campaign-archive.com/feed?u=e1ad6038c994abec17dafb116&amp;id=a2457dc8ad" htmlUrl="https://us18.campaign-archive.com/feed?u=e1ad6038c994abec17dafb116&amp;id=a2457dc8ad"/>
+            <outline type="rss" text="Return on Security" title="Return on Security" xmlUrl="https://kill-the-newsletter.com/feeds/5d2hpqojechtu12i.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+        </outline>
+        <outline text="Podcasts" title="Podcasts">
+            <outline type="rss" text="Malicious Life" title="Malicious Life" xmlUrl="https://malicious.life/feed/podcast/" htmlUrl="https://redcircle.com/shows/malicious-life"/>
+            <outline type="rss" text="Shared Security Podcast" title="Shared Security Podcast" xmlUrl="http://sharedsecurity.net/feed/" htmlUrl="https://sharedsecurity.net/"/>
+            <outline type="rss" text="BarCode" title="BarCode" xmlUrl="https://barcodesecurity.com/feed/" htmlUrl="https://barcodesecurity.com"/>
+            <outline type="rss" text="Unsupervised Learning" title="Unsupervised Learning" xmlUrl="http://feeds.danielmiessler.com/unsupervised-learning" htmlUrl="https://danielmiessler.com/podcast/"/>
+            <outline type="rss" text="Cloud Security Podcast by Google" title="Cloud Security Podcast by Google" xmlUrl="https://cloudsecuritypodcast.libsyn.com/rss" htmlUrl="http://cloudsecuritypodcast.libsyn.com/site"/>
+            <outline type="rss" text="DAY[0]" title="DAY[0]" xmlUrl="https://dayzerosec.com/feed.xml" htmlUrl="https://dayzerosec.com/"/>
+            <outline type="rss" text="Cloud Security Podcast" title="Cloud Security Podcast" xmlUrl="https://feedly.com/email/ybmp96rtust47hv6rhgi"/>
+            <outline type="rss" text="The BlueHat Podcast" title="The BlueHat Podcast" xmlUrl="https://feeds.acast.com/public/shows/the-bluehat-podcast" htmlUrl="https://bluehatpodcast.com"/>
+            <outline type="rss" text="Risky Business" title="Risky Business" xmlUrl="http://risky.biz/rss.xml" htmlUrl="https://risky.biz/"/>
+            <outline type="rss" text="Critical Thinking - Bug Bounty Podcast" title="Critical Thinking - Bug Bounty Podcast" xmlUrl="https://media.rss.com/ctbbpodcast/feed.xml" htmlUrl="https://criticalthinkingpodcast.io"/>
+            <outline type="rss" text="Security Now (Audio)" title="Security Now (Audio)" xmlUrl="http://leoville.tv/podcasts/sn.xml" htmlUrl="https://twit.tv/shows/security-now"/>
+            <outline type="rss" text="Smashing Security" title="Smashing Security" xmlUrl="http://smashingsecurity.libsyn.com/rss" htmlUrl="https://www.smashingsecurity.com"/>
+            <outline type="rss" text="Phillip Wylie Show" title="Phillip Wylie Show" xmlUrl="https://anchor.fm/s/de522f40/podcast/rss" htmlUrl="https://thehackermaker.com"/>
+            <outline type="rss" text="Open Source Security Podcast" title="Open Source Security Podcast" xmlUrl="https://opensourcesecuritypodcast.libsyn.com/rss" htmlUrl="http://opensourcesecuritypodcast.com"/>
+            <outline type="rss" text="Getting Into Infosec" title="Getting Into Infosec" xmlUrl="https://www.omnycontent.com/d/playlist/661dda14-433b-4d91-abf2-acaf0037d1f9/368fbcc1-e1bd-4bb4-aba3-acaf003892db/624bf5b2-12fd-4569-8da3-acaf003892ed/podcast.rss" htmlUrl="https://gettingintoinfosec.com/"/>
+            <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="http://feeds.feedburner.com/DarknetDiaries" htmlUrl="https://darknetdiaries.com/"/>
+            <outline type="rss" text="The Privacy, Security, &amp; OSINT Show" title="The Privacy, Security, &amp; OSINT Show" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss" htmlUrl="https://soundcloud.com/user-98066669"/>
+            <outline type="rss" text="Hacking Humans" title="Hacking Humans" xmlUrl="http://hackinghumans.libsyn.com/rss" htmlUrl="https://thecyberwire.com/podcasts/hacking-humans"/>
+        </outline>
+        <outline text="Blogs" title="Blogs">
+            <outline type="rss" text="Joseph Thacker" title="Joseph Thacker" xmlUrl="http://rez0.blog/feed.xml" htmlUrl="http://josephthacker.com/"/>
+            <outline type="rss" text="InsiderPhD" title="InsiderPhD" xmlUrl="https://insiderphd.substack.com/feed" htmlUrl="https://insiderphd.substack.com"/>
+            <outline type="rss" text="Corben Leo Blog" title="Corben Leo Blog" xmlUrl="https://feedly.com/web/c3bef463-17f7-4f3d-b73f-6e0cd9c660cb" htmlUrl="https://corben.io/blog"/>
+            <outline type="rss" text="g0lden" title="g0lden" xmlUrl="https://www.goldencybersec.com/feed.xml" htmlUrl="https://g0ldencybersec.github.io/"/>
+            <outline type="rss" text="HΔKLUKΞ" title="HΔKLUKΞ" xmlUrl="https://hakluke.com/feed/" htmlUrl="https://hakluke.com/"/>
+            <outline type="rss" text="Olivia A. Gallucci" title="Olivia A. Gallucci" xmlUrl="https://oliviagallucci.com/feed/" htmlUrl="https://oliviagallucci.com/"/>
+            <outline type="rss" text="JasonHaddix Blog" title="JasonHaddix Blog" xmlUrl="https://feedly.com/web/d281e816-eae0-4e80-9d56-95857ae3885a" htmlUrl="https://www.jhaddix.com/blog"/>
+        </outline>
+        <outline text="Videos" title="Videos">
+            <outline type="rss" text="0xdf" title="0xdf" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChO9OAH57Flz35RRX__E25A" htmlUrl="https://www.youtube.com/channel/UChO9OAH57Flz35RRX__E25A"/>
+            <outline type="rss" text="Tracketpacer" title="Tracketpacer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNUAKNv3NYV_GQfuMJ8acOg" htmlUrl="https://www.youtube.com/channel/UCNUAKNv3NYV_GQfuMJ8acOg"/>
+            <outline type="rss" text="Cyber Warrior Studios" title="Cyber Warrior Studios" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1BeplJcC5YGHjcF8QyRD7g" htmlUrl="https://www.youtube.com/channel/UC1BeplJcC5YGHjcF8QyRD7g"/>
+            <outline type="rss" text="NahamSec" title="NahamSec" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCZDt7MuC3Hzs6IH4xODLBw" htmlUrl="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw"/>
+            <outline type="rss" text="Matt Brown" title="Matt Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3VDCeZYZH7mCihtMVHqppw" htmlUrl="https://www.youtube.com/channel/UC3VDCeZYZH7mCihtMVHqppw"/>
+            <outline type="rss" text="Vulnerable U" title="Vulnerable U" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGLhbV0inhaOQEPo5zFjTNQ" htmlUrl="https://www.youtube.com/channel/UCGLhbV0inhaOQEPo5zFjTNQ"/>
+            <outline type="rss" text="The Cyber Mentor" title="The Cyber Mentor" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw" htmlUrl="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw"/>
+            <outline type="rss" text="John Hammond" title="John Hammond" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw" htmlUrl="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw"/>
+            <outline type="rss" text="Hacking Simplified" title="Hacking Simplified" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCARsgS1stRbRgh99E63Q3ng" htmlUrl="https://www.youtube.com/channel/UCARsgS1stRbRgh99E63Q3ng"/>
+            <outline type="rss" text="Hacksplained" title="Hacksplained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyv6ItVqQPnlFFi2zLxlzXA" htmlUrl="https://www.youtube.com/channel/UCyv6ItVqQPnlFFi2zLxlzXA"/>
+            <outline type="rss" text="Bug Bounty Reports Explained" title="Bug Bounty Reports Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZDyl7G-Lq-EMVO8PfDFp9g" htmlUrl="https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g"/>
+            <outline type="rss" text="Alex Chaveriat" title="Alex Chaveriat" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbHYwhbarpO6vXgbIYmcXnQ" htmlUrl="https://www.youtube.com/channel/UCbHYwhbarpO6vXgbIYmcXnQ"/>
+            <outline type="rss" text="TracketPacer (@tracketpacer) | TikTok" title="TracketPacer (@tracketpacer) | TikTok" xmlUrl="https://rss.app/feeds/DBzxuCP0hEnzaaYV.xml" htmlUrl="https://www.tiktok.com/@tracketpacer"/>
+            <outline type="rss" text="Justin Steven" title="Justin Steven" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCBmFvsR6sIPrmjSVVxY9ng" htmlUrl="https://www.youtube.com/channel/UCCBmFvsR6sIPrmjSVVxY9ng"/>
+            <outline type="rss" text="Tib3rius" title="Tib3rius" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs6dtu4e0JL-N4hVszsFpBw" htmlUrl="https://www.youtube.com/channel/UCs6dtu4e0JL-N4hVszsFpBw"/>
+            <outline type="rss" text="codingo" title="codingo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUfO02gdMDXgOJWdv_jiLMg" htmlUrl="https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg"/>
+            <outline type="rss" text="Netsec Explained" title="Netsec Explained" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsKK7UIiYqvK35aWrCCgUUA" htmlUrl="https://www.youtube.com/channel/UCsKK7UIiYqvK35aWrCCgUUA"/>
+            <outline type="rss" text="LiveOverflow" title="LiveOverflow" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w" htmlUrl="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"/>
+            <outline type="rss" text="தமிழ் hackz" title="தமிழ் hackz" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4BpyO4AIcynKhBj4PLnvsA" htmlUrl="https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA"/>
+            <outline type="rss" text="Stefan Rows" title="Stefan Rows" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDqZyVCTwg9UyRWKgQ7Gizg" htmlUrl="https://www.youtube.com/channel/UCDqZyVCTwg9UyRWKgQ7Gizg"/>
+            <outline type="rss" text="Conda" title="Conda" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzK5oAENyQJcnH5SvEquo8A" htmlUrl="https://www.youtube.com/channel/UCzK5oAENyQJcnH5SvEquo8A"/>
+            <outline type="rss" text="NetworkChuck" title="NetworkChuck" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ" htmlUrl="https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ"/>
+            <outline type="rss" text="Cybr" title="Cybr" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHniAWK7wYu9EYbz64cOL_A" htmlUrl="https://www.youtube.com/channel/UCHniAWK7wYu9EYbz64cOL_A"/>
+            <outline type="rss" text="Critical Thinking - Bug Bounty Podcast" title="Critical Thinking - Bug Bounty Podcast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6zbKG1pqq2do-_oa9QFliA" htmlUrl="https://www.youtube.com/channel/UC6zbKG1pqq2do-_oa9QFliA"/>
+            <outline type="rss" text="hakluke" title="hakluke" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCzvz8jsulXm27Cd6k3vzyg" htmlUrl="https://www.youtube.com/channel/UCCzvz8jsulXm27Cd6k3vzyg"/>
+            <outline type="rss" text="Seven Seas Security" title="Seven Seas Security" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuHzD8nmIdBZ5mTluQ0hkwA" htmlUrl="https://www.youtube.com/channel/UCuHzD8nmIdBZ5mTluQ0hkwA"/>
+            <outline type="rss" text="InsiderPhD" title="InsiderPhD" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPiN9NPjIer8Do9gUFxKv7A" htmlUrl="https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A"/>
+            <outline type="rss" text="4n6lady" title="4n6lady" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmNekbphhjbQLxDthzI0VCg" htmlUrl="https://www.youtube.com/channel/UCmNekbphhjbQLxDthzI0VCg"/>
+            <outline type="rss" text="Lupin" title="Lupin" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCh3ecxx3c6qZDlccBjjiDyQ" htmlUrl="https://www.youtube.com/channel/UCh3ecxx3c6qZDlccBjjiDyQ"/>
+            <outline type="rss" text="STÖK" title="STÖK" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQN2DsjnYH60SFBIA6IkNwg" htmlUrl="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg"/>
+            <outline type="rss" text="Hack Academy" title="Hack Academy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8XUtbJrsi6rJaGlrnN4BNA" htmlUrl="https://www.youtube.com/channel/UC8XUtbJrsi6rJaGlrnN4BNA"/>
+            <outline type="rss" text="Murmus CTF" title="Murmus CTF" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUB9vOGEUpw7IKJRoR4PK-A" htmlUrl="https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A"/>
+            <outline type="rss" text="g0lden" title="g0lden" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsydEarQM7lEn8Pz2N7PEdA" htmlUrl="https://www.youtube.com/channel/UCsydEarQM7lEn8Pz2N7PEdA"/>
+            <outline type="rss" text="Alpha Cybersecurity" title="Alpha Cybersecurity" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJVQ4X0olUFq0nrxS8Xvijg" htmlUrl="https://www.youtube.com/channel/UCJVQ4X0olUFq0nrxS8Xvijg"/>
+            <outline type="rss" text="Lily Clark" title="Lily Clark" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPYq54LgDUrRx6ACsNByNVw" htmlUrl="https://www.youtube.com/channel/UCPYq54LgDUrRx6ACsNByNVw"/>
+            <outline type="rss" text="GynvaelEN" title="GynvaelEN" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCkVMojdBWS-JtH7TliWkVg" htmlUrl="https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg"/>
+            <outline type="rss" text="247CTF" title="247CTF" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtGLeKomT06x3xZ2SZp2l9Q" htmlUrl="https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q"/>
+            <outline type="rss" text="Phillip Wylie" title="Phillip Wylie" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeZgoXbccmkcf9viz974MEA" htmlUrl="https://www.youtube.com/channel/UCeZgoXbccmkcf9viz974MEA"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPhsvJnTmjEbzxcmyiKVmHQ" htmlUrl="https://www.youtube.com/channel/UCPhsvJnTmjEbzxcmyiKVmHQ"/>
+            <outline type="rss" text="IT Career Questions" title="IT Career Questions" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCt-Pwe2fODjH4Wuwf5VqE7A" htmlUrl="https://www.youtube.com/channel/UCt-Pwe2fODjH4Wuwf5VqE7A"/>
+            <outline type="rss" text="Calle Svensson" title="Calle Svensson" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0WMQTG_-WIWm8eacM8D8QQ" htmlUrl="https://www.youtube.com/channel/UC0WMQTG_-WIWm8eacM8D8QQ"/>
+            <outline type="rss" text="Olivia Gallucci" title="Olivia Gallucci" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmcjmqxBxn8tkNgq2KhBR7A" htmlUrl="https://www.youtube.com/channel/UCmcjmqxBxn8tkNgq2KhBR7A"/>
+            <outline type="rss" text="PinkDraconian" title="PinkDraconian" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmXwpkCXmIKjoRLMsq9I3RA" htmlUrl="https://www.youtube.com/channel/UCmXwpkCXmIKjoRLMsq9I3RA"/>
+            <outline type="rss" text="jhaddix" title="jhaddix" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk0f0svao7AKeK3RfiWxXEA" htmlUrl="https://www.youtube.com/channel/UCk0f0svao7AKeK3RfiWxXEA"/>
+            <outline type="rss" text="Gerald Auger, PhD - Simply Cyber" title="Gerald Auger, PhD - Simply Cyber" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG-48Ki-b6W_siaUkukJOSw" htmlUrl="https://www.youtube.com/channel/UCG-48Ki-b6W_siaUkukJOSw"/>
+            <outline type="rss" text="Vickie Li Dev" title="Vickie Li Dev" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjQHiY2JeOkBamHSg_6UeFw" htmlUrl="https://www.youtube.com/channel/UCjQHiY2JeOkBamHSg_6UeFw"/>
+            <outline type="rss" text="Jack Rhysider" title="Jack Rhysider" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMIqrmh2lMdzhlCPK5ahsAg" htmlUrl="https://www.youtube.com/channel/UCMIqrmh2lMdzhlCPK5ahsAg"/>
+            <outline type="rss" text="Rana Khalil" title="Rana Khalil" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKaK-XPQAbznwIISC46b1oA" htmlUrl="https://www.youtube.com/channel/UCKaK-XPQAbznwIISC46b1oA"/>
+            <outline type="rss" text="I am Jakoby" title="I am Jakoby" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQUz2mC5Regc63XRWEqD9FA" htmlUrl="https://www.youtube.com/channel/UCQUz2mC5Regc63XRWEqD9FA"/>
+            <outline type="rss" text="System Exploited" title="System Exploited" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9VWq-AibQhXV24T_QrTIWw" htmlUrl="https://www.youtube.com/channel/UC9VWq-AibQhXV24T_QrTIWw"/>
+            <outline type="rss" text="Seytonic" title="Seytonic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW6xlqxSY3gGur4PkGPEUeA" htmlUrl="https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA"/>
+            <outline type="rss" text="superhero1" title="superhero1" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm2SwKmx3Ya1HG5RmHR7SCA" htmlUrl="https://www.youtube.com/channel/UCm2SwKmx3Ya1HG5RmHR7SCA"/>
+            <outline type="rss" text="Farah Hawa" title="Farah Hawa" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq9IyPMXiwD8yBFHkxmN8zg" htmlUrl="https://www.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg"/>
+            <outline type="rss" text="IppSec" title="IppSec" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA" htmlUrl="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA"/>
+            <outline type="rss" text="Cloud Security Podcast" title="Cloud Security Podcast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8jQKdbAHbv7LuIQOxN_mqQ" htmlUrl="https://www.youtube.com/channel/UC8jQKdbAHbv7LuIQOxN_mqQ"/>
+        </outline>
+    </body>
+</opml>
